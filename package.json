@@ -1,0 +1,31 @@
+{
+  "name": "contactMgrVanillaJS",
+  "version": "0.0.0",
+  "description": "Projet permettant de faire découvrir VanillaJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TRIPTYK/contactMgrVanillaJS.git"
+  },
+  "keywords": [
+    "JS",
+    "TRAINING"
+  ],
+  "author": "TheCrazyDigitalPainter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TRIPTYK/contactMgrVanillaJS/issues"
+  },
+  "homepage": "https://github.com/TRIPTYK/contactMgrVanillaJS",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-compass": "~0.7.2",
+    "matchdep": "~0.3.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "express": "~3.5.0",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}

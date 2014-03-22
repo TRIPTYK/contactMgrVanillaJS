@@ -2,4 +2,6 @@
 generated
 dist
 node_modules
+.sass-cache
+
 
